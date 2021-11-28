@@ -1,11 +1,7 @@
-#### React Router Fix
+#### React Cocktail websitye
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+<img src="" width="30px">
 
-#### CRA Fix
+#### Live Web site
+<a href="https://rt-cocktail.netlify.app/">Live</a>
 
-```
-
-"build": "CI= react-scripts build",
-
-```
