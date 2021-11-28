@@ -1,11 +1,18 @@
 import React from 'react'
 import { useGlobalContext } from '../context'
 
-const SearchForm = () => {
+function SearchForm() {
+
+
   return (
-    <div>
-      <h2>search form component</h2>
-    </div>
+    <section className="section search">
+        <form className="search-form">
+            <div className="form-control">
+                <label>Search your favorite Cocktail</label>
+                <input type="text" name="search" id="name"/>
+            </div>
+        </form>
+    </section>
   )
 }
 
